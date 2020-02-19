@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 00ac66a313a567e4dad63c7f00fdb4df
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tripleLaserParent: {fileID: 7022427535148202463, guid: e16489e672f33994591b2dae602ae54d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
